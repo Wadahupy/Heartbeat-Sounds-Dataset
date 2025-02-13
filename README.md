@@ -1,6 +1,5 @@
 # Peter J. Bentley Heartbeat Sound Challenge Dataset
 
-
 ## 📌 Overview
 This dataset originates from the **Peter J. Bentley Heartbeat Sound Challenge**, which aims to classify normal and abnormal heart sounds. The dataset contains heart sound recordings collected from various sources, annotated with different cardiac conditions.
 
@@ -47,7 +46,7 @@ If you use this dataset, please cite the original source:
 This dataset is provided for research and educational purposes only. Ensure proper attribution when using it in your projects.
 
 ## 📞 Contact
-For any issues or questions, feel free to create an issue on this repository or reach out to [Your Email or GitHub Profile].
+For any issues or questions, feel free to create an issue on this repository or reach out to quilatandenzel@gmail.com.
 
 ---
 ⭐ **Star this repository** if you find it helpful!
